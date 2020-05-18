@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Evaluacion_Cierre_Modulo2" id="17CA0D9A-CD2D-514D-F908-944B73F91341" version="3.5">
+<createdBy>Alumno</createdBy>
+<createdTime>2020-03-12 22:03:52 UTC</createdTime>
+<ownerDesignName>EvaluacionBBDD</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>17CA0D9A-CD2D-514D-F908-944B73F91341</designId>
+</OSDM_Design>
